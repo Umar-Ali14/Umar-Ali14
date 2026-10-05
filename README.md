@@ -4,8 +4,8 @@
 
 ### Cloud Engineer | AWS | Terraform | Cloud Infrastructure
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-ali-043b13274/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mianumarali14@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
 
@@ -84,12 +84,6 @@ An automated AWS solution designed to identify underutilized EC2 resources and s
 
 `EC2` · `CloudWatch` · `Lambda` · `S3` · `IAM` · `Python`
 
-<br>
-
-<a href="YOUR_COST_OPTIMIZATION_REPO">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
 </td>
 
 <td width="33%" valign="top">
@@ -98,17 +92,9 @@ An automated AWS solution designed to identify underutilized EC2 resources and s
 
 A deployment pipeline using GitHub Actions and AWS IAM OIDC to securely deploy changes to Amazon S3 without storing long-lived AWS access keys.
 
-<br>
-
 **Built With**
 
 `AWS S3` · `IAM` · `OIDC` · `GitHub Actions`
-
-<br>
-
-<a href="YOUR_CICD_REPO">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </td>
 
@@ -116,16 +102,35 @@ A deployment pipeline using GitHub Actions and AWS IAM OIDC to securely deploy c
 
 ### Terraform AWS Infrastructure
 
-Hands-on Infrastructure as Code project for provisioning and managing AWS resources using Terraform
-
-<br>
-
+Hands-on Infrastructure as Code project for provisioning and managing AWS resources using Terraform.
 
 **Built With**
 
 `Terraform` · `AWS` · `EC2` · `VPC` · `S3`
 
-<br>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="left" valign="bottom">
+
+<a href="YOUR_COST_OPTIMIZATION_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="left" valign="bottom">
+
+<a href="YOUR_CICD_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="left" valign="bottom">
 
 <a href="YOUR_TERRAFORM_REPO">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -149,17 +154,9 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 
 A cloud-hosted static website architecture using Amazon S3 with AWS networking and content delivery services.
 
-<br>
-
 **Built With**
 
 `S3` · `CloudFront` · `Route 53`
-
-<br>
-
-<a href="YOUR_REPO">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </td>
 
@@ -169,17 +166,9 @@ A cloud-hosted static website architecture using Amazon S3 with AWS networking a
 
 A multi-AZ AWS architecture designed around load balancing, auto scaling, and fault tolerance.
 
-<br>
-
 **Built With**
 
 `VPC` · `ALB` · `ASG` · `EC2` · `Multi-AZ`
-
-<br>
-
-<a href="YOUR_REPO">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
 </td>
 
@@ -193,9 +182,31 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 
 `Terraform` · `AWS` · `Variables` · `Outputs`
 
-<br>
+</td>
 
-<a href="YOUR_REPO">
+</tr>
+
+<tr>
+
+<td align="left" valign="bottom">
+
+<a href="YOUR_STATIC_WEBSITE_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="left" valign="bottom">
+
+<a href="YOUR_HA_ARCHITECTURE_REPO">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td align="left" valign="bottom">
+
+<a href="YOUR_TERRAFORM_PRACTICE_REPO">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -219,7 +230,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
-<br>
+<br><br>
 
 ### Infrastructure & DevOps
 
@@ -229,7 +240,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<br>
+<br><br>
 
 ### Programming
 
@@ -239,12 +250,13 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 </div>
 
 ---
+
 <div align="center">
 
 ### Let's Build Something Useful.
 
 Cloud Engineering · Automation · Infrastructure · Continuous Learning
 
-<br>
+<br><br>
 
 </div>
