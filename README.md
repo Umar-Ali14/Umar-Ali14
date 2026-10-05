@@ -98,6 +98,8 @@ An automated AWS solution designed to identify underutilized EC2 resources and s
 
 A deployment pipeline using GitHub Actions and AWS IAM OIDC to securely deploy changes to Amazon S3 without storing long-lived AWS access keys.
 
+<br>
+
 **Built With**
 
 `AWS S3` · `IAM` · `OIDC` · `GitHub Actions`
@@ -114,7 +116,10 @@ A deployment pipeline using GitHub Actions and AWS IAM OIDC to securely deploy c
 
 ### Terraform AWS Infrastructure
 
-Hands-on Infrastructure as Code project for provisioning and managing AWS resources using Terraform.
+Hands-on Infrastructure as Code project for provisioning and managing AWS resources using Terraform
+
+<br>
+
 
 **Built With**
 
@@ -144,6 +149,8 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 
 A cloud-hosted static website architecture using Amazon S3 with AWS networking and content delivery services.
 
+<br>
+
 **Built With**
 
 `S3` · `CloudFront` · `Route 53`
@@ -161,6 +168,8 @@ A cloud-hosted static website architecture using Amazon S3 with AWS networking a
 ### High Availability Architecture
 
 A multi-AZ AWS architecture designed around load balancing, auto scaling, and fault tolerance.
+
+<br>
 
 **Built With**
 
@@ -229,6 +238,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 
 </div>
 
+---
 <div align="center">
 
 ### Let's Build Something Useful.
