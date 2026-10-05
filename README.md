@@ -210,7 +210,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
-<br><br>
+<br>
 
 ### Infrastructure & DevOps
 
@@ -220,7 +220,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
-<br><br>
+<br>
 
 ### Programming
 
@@ -228,7 +228,6 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 </div>
----
 
 <div align="center">
 
@@ -237,7 +236,5 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 Cloud Engineering · Automation · Infrastructure · Continuous Learning
 
 <br>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue" alt="Profile Views">
 
 </div>
