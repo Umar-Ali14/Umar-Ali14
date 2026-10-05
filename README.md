@@ -6,8 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-ali-043b13274/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mianumarali14@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](YOUR_UPWORK_URL)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/umarali_10/)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011161bbdb5bf75446)
 
 </div>
 
@@ -116,7 +116,7 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 
 <td align="left" valign="bottom">
 
-<a href="YOUR_COST_OPTIMIZATION_REPO">
+<a href="https://github.com/Umar-Ali14/aws-cost-optimizer-system">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -124,7 +124,7 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 
 <td align="left" valign="bottom">
 
-<a href="YOUR_CICD_REPO">
+<a href="https://github.com/Umar-Ali14/cicd-cloud-project">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -190,7 +190,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 
 <td align="left" valign="bottom">
 
-<a href="YOUR_STATIC_WEBSITE_REPO">
+<a href="https://github.com/Umar-Ali14/s3-cloudfront-static-website">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -206,7 +206,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 
 <td align="left" valign="bottom">
 
-<a href="YOUR_TERRAFORM_PRACTICE_REPO">
+<a href="https://github.com/Umar-Ali14/Terraform_AWS_Practice">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
