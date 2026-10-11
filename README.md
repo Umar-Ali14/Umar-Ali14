@@ -4,10 +4,10 @@
 
 ### Cloud Engineer | AWS | Terraform | Cloud Infrastructure
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-ali-043b13274/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mianumarali14@gmail.com)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/umarali_10/)
-[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011161bbdb5bf75446)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/umar-ali-043b13274/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:mianumarali14@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/umarali_10/)
+[![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~011161bbdb5bf75446)
 
 </div>
 
@@ -117,7 +117,7 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 <td align="left" valign="bottom">
 
 <a href="https://github.com/Umar-Ali14/aws-cost-optimizer-system">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AWS Cost Optimization Repository">
 </a>
 
 </td>
@@ -125,7 +125,7 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 <td align="left" valign="bottom">
 
 <a href="https://github.com/Umar-Ali14/cicd-cloud-project">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AWS CI/CD Repository">
 </a>
 
 </td>
@@ -133,7 +133,7 @@ Hands-on Infrastructure as Code project for provisioning and managing AWS resour
 <td align="left" valign="bottom">
 
 <a href="YOUR_TERRAFORM_REPO">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Terraform AWS Infrastructure Repository">
 </a>
 
 </td>
@@ -191,7 +191,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <td align="left" valign="bottom">
 
 <a href="https://github.com/Umar-Ali14/s3-cloudfront-static-website">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View AWS Static Website Repository">
 </a>
 
 </td>
@@ -199,7 +199,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <td align="left" valign="bottom">
 
 <a href="YOUR_HA_ARCHITECTURE_REPO">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View High Availability Architecture Repository">
 </a>
 
 </td>
@@ -207,7 +207,7 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 <td align="left" valign="bottom">
 
 <a href="https://github.com/Umar-Ali14/Terraform_AWS_Practice">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Terraform Practice Repository">
 </a>
 
 </td>
@@ -223,30 +223,40 @@ A collection of Terraform exercises focused on understanding AWS infrastructure 
 
 ### Cloud
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
-<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
+<img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda">
+<img src="https://img.shields.io/badge/Amazon%20VPC-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon VPC">
+<img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS IAM">
 
 <br>
 
 ### Infrastructure & DevOps
 
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 
 <br>
 
 ### Programming
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umar-Ali14&theme=github_dark" width="100%"/>
 
 </div>
 
