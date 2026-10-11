@@ -5,7 +5,6 @@
 ### Cloud Engineer | AWS | Terraform | Cloud Infrastructure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/umar-ali-043b13274/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:mianumarali14@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/umarali_10/)
 [![Upwork](https://img.shields.io/badge/Upwork-14A800?style=flat\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~011161bbdb5bf75446)
 
